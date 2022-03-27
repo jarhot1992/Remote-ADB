@@ -32,6 +32,7 @@
 5. Support push file.
 6. Support pull file.
 7. Support remote controller.
+8. Support touchpad.
 
 # Learn adb
 - [Google adb details](https://developer.android.com/studio/command-line/adb)
