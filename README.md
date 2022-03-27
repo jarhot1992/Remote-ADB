@@ -24,5 +24,14 @@
 - [github](https://github.com/jarhot1992/Remote-ADB)
 
 
-#TODO
-1. Support 
+# TODO
+1. Support logcat.
+2. Support screenshot.
+3. Support install app.
+4. Support set text size.
+5. Support push file.
+6. Support pull file.
+
+# Learn adb
+- [Google adb details](https://developer.android.com/studio/command-line/adb)
+- [awesome-adb](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md)
