@@ -19,10 +19,10 @@
 14. Support recommend files.
 15. Support prefab commands. 
 
-# discuss
+# discuss & feedback
 - [Reddit](https://www.reddit.com/r/AndroidAdbClient/)
 - [github](https://github.com/jarhot1992/Remote-ADB)
-
+- email colorboxguestservice@gmail.com
 
 # TODO
 1. Support logcat.
