@@ -1,6 +1,6 @@
 #Download url
-Advanced Edition -> https://play.google.com/store/apps/details?id=com.github.superadb
-Basics Edition -> https://play.google.com/store/apps/details?id=com.github.standardadb
+- [Advanced Edition](https://play.google.com/store/apps/details?id=com.github.superadb)
+- [Basics Edition](https://play.google.com/store/apps/details?id=com.github.standardadb)
 
 # Features
 1. Support Android 4.X-Android 12
