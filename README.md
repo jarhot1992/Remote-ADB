@@ -36,3 +36,11 @@
 # Learn adb
 - [Google adb details](https://developer.android.com/studio/command-line/adb)
 - [awesome-adb](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md)
+
+### How to enable adb
+Enable adb debugging on your device
+To use adb with a device connected over USB, you must enable USB debugging in the device system settings, under Developer options. To use adb with a device connected over Wi-Fi, see Connect to a device over Wi-Fi.
+
+On Android 4.2 and higher, the Developer options screen is hidden by default. To make it visible, go to Settings > About phone and tap Build number seven times. Return to the previous screen to find Developer options at the bottom.
+
+On some devices, the Developer options screen might be located or named differently.
