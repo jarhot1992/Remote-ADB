@@ -18,3 +18,11 @@
 13. Support recommend commands.
 14. Support recommend files.
 15. Support prefab commands. 
+
+# discuss
+- [Reddit](https://www.reddit.com/r/AndroidAdbClient/)
+- [github](https://github.com/jarhot1992/Remote-ADB)
+
+
+#TODO
+1. Support 
