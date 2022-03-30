@@ -25,10 +25,10 @@
 - email colorboxguestservice@gmail.com
 
 # TODO
-1. Support logcat.
+1. ~~Support logcat.~~
 2. Support screenshot.
 3. Support install app.
-4. Support set text size.
+4. ~~Support set text size.~~
 5. Support push file.
 6. Support pull file.
 7. Support remote controller.
