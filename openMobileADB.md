@@ -18,7 +18,7 @@ Different models of phones may be slightly different!
 6. Enable 'USB debugging'
    - <img src="./image/openAdb/07.png" width="270" height="480">
 
-7. Clck 'OK'
+7. Click 'OK'
    - <img src="./image/openAdb/08.png" width="270" height="480">
 
 8. Connect the USB cable.
