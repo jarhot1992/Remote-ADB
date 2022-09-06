@@ -2,46 +2,50 @@
 - [Advanced Edition](https://play.google.com/store/apps/details?id=com.github.superadb)
 - [Basics Edition](https://play.google.com/store/apps/details?id=com.github.standardadb)
 
-# Features
-1. Support Android 4.X-Android 12
+# Shell features:
+1. Support Android 4.X-Android 13
 2. Support pair mode
 3. Support wifi wireless adb.
 4. Support local shell adb.
 5. Support associative input.
 6. Support autosave output.
 7. Support share output with your friends.
-8. Support command history. 
-9. Support fast copy command. 
-10. Support multi-window. 
+8. Support command history.
+9. Support fast copy command.
+10. Support multi-window.
 11. Support color text.
 12. Support run on the background.
 13. Support recommend commands.
 14. Support recommend files.
-15. Support prefab commands. 
+15. Support prefab commands.
+16. Support logcat.
 
-# discuss & feedback
-- [Reddit](https://www.reddit.com/r/AndroidAdbClient/)
+# Toolbox features:
+1. Support launch application & uninstall application & download application & force stop application & clear application data & disable application & enable application.
+2. Support device management.
+3. Support view running applications
+4. Support take screenshot.
+5. Support push file
+6. Support install apk
+7. Support pull file
+8. Support to open remote image&audio&video files directly
+9. Support remote controller
+10. Support text input
+11. Support System monitor
+12. Support view system information.
+13. Support view prop information.
+
+# Tutorials
+### How to connect adb
+- [👍How to open mobile adb](./openMobileADB.md)
+- [👍How to connect adb (Android 4.x ~ Android 13)](https://developer.android.com/studio/command-line/adb)
+- [How to connect adb (Android 11 ~ Android 13)](https://developer.android.com/studio/command-line/adb)
+- [How to open and connect adb(From google)](https://developer.android.com/studio/command-line/adb)
+# Feedback
 - [github](https://github.com/jarhot1992/Remote-ADB)
-- email colorboxguestservice@gmail.com
+- Email colorboxguestservice@gmail.com
 
-# TODO
-1. ~~Support logcat.~~
-2. Support screenshot.
-3. Support install app.
-4. ~~Support set text size.~~
-5. Support push file.
-6. Support pull file.
-7. Support remote controller.
-8. Support touchpad.
 
 # Learn adb
 - [Google adb details](https://developer.android.com/studio/command-line/adb)
 - [awesome-adb](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md)
-
-### How to enable adb
-Enable adb debugging on your device
-To use adb with a device connected over USB, you must enable USB debugging in the device system settings, under Developer options. To use adb with a device connected over Wi-Fi, see Connect to a device over Wi-Fi.
-
-On Android 4.2 and higher, the Developer options screen is hidden by default. To make it visible, go to Settings > About phone and tap Build number seven times. Return to the previous screen to find Developer options at the bottom.
-
-On some devices, the Developer options screen might be located or named differently.
