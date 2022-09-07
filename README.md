@@ -37,14 +37,14 @@
 
 # Tutorials
 ### How to connect adb
-- [👍How to open mobile adb](./openMobileADB.md)
+- [👍How to open mobile adb](./md/openMobileADB.md)
 - [👍How to connect adb (Android 4.x ~ Android 13)](https://developer.android.com/studio/command-line/adb)
 - [How to connect adb (Android 11 ~ Android 13)](https://developer.android.com/studio/command-line/adb)
 - [How to open and connect adb(From google)](https://developer.android.com/studio/command-line/adb)
+
 # Feedback
 - [github](https://github.com/jarhot1992/Remote-ADB)
 - Email colorboxguestservice@gmail.com
-
 
 # Learn adb
 - [Google adb details](https://developer.android.com/studio/command-line/adb)
