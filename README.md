@@ -2,6 +2,14 @@
 - [Advanced Edition](https://play.google.com/store/apps/details?id=com.github.superadb)
 - [Basics Edition](https://play.google.com/store/apps/details?id=com.github.standardadb)
 
+## Tutorials(updating)
+#### How to open and connect adb
+- [👍How to open mobile adb](./md/openMobileADB.md)
+- [👍How to open TV adb](./md/openMobileADB.md)
+- [👍How to connect adb (Android 4.x ~ Android 13)](./md/connectADB4x_13.md)
+- [How to pair and connect adb (Android 11 ~ Android 13)](https://developer.android.com/studio/command-line/adb)
+- [How to open and connect adb(From google)](https://developer.android.com/studio/command-line/adb)
+
 ## Shell features:
 1. Support Android 4.X-Android 13
 2. Support pair mode
@@ -34,14 +42,6 @@
 11. Support System monitor
 12. Support view system information.
 13. Support view prop information.
-
-## Tutorials
-#### How to connect adb
-- [👍How to open mobile adb](./md/openMobileADB.md)
-- [👍How to open TV adb](./md/openMobileADB.md)
-- [👍How to connect adb (Android 4.x ~ Android 13)](https://developer.android.com/studio/command-line/adb)
-- [How to connect adb (Android 11 ~ Android 13)](https://developer.android.com/studio/command-line/adb)
-- [How to open and connect adb(From google)](https://developer.android.com/studio/command-line/adb)
 
 ## Feedback
 - [github](https://github.com/jarhot1992/Remote-ADB)
