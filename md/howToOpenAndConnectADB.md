@@ -1,0 +1,5 @@
+- [👍How to open mobile adb](./md/openMobileADB.md)
+- [👍How to open TV adb](./md/../openTVADB.md)
+- [👍How to connect adb (Android 4.x ~ Android 13)](./md/../connectADB4x_13.md)
+- [How to connect adb (Android 11 ~ Android 13)](./md/../connectADB11_13.md)
+- [How to open and connect adb(From google)](https://developer.android.com/studio/command-line/adb)
