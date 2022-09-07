@@ -1,4 +1,3 @@
-##### How to pair and connect adb(Android 4.x ~ Android 13)
+##### How to pair and connect adb(Android 11 ~ Android 13)
 
-1. [open mobile adb](./md/openMobileADB.md) or [open TV adb](./md/../openTVADB.md)
-2. 
+1. [Open mobile adb(Android 11 ~ Android 13)](./md/openMobileADB11_13.md)
