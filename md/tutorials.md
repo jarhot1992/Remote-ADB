@@ -29,3 +29,9 @@
         at android.os.Binder.execTransactInternal(Binder.java:1021)
         at android.os.Binder.execTransact(Binder.java:994)
    ```
+
+2. ##### How to use the app locally?
+   1. Open and connect adb.[How to open and connect adb](./md/tutorials.md)
+   2. Disable pairing mode.
+   3. Default IP 127.0.0.1 and default port 5555 is local mode.
+      - <img src="./../image/connectADB4x_13/1.jpeg" width="270" height="300">
