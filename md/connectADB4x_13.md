@@ -16,7 +16,7 @@
     ```
 3. 1. Open the adb app
    2. Input IP and port
-   3. Close pair mode
+   3. disable pair mode
    4. Click 'connect'
    - <img src="./../image/connectADB4x_13/1.jpeg" width="270" height="300">
    - <img src="./../image/connectADB4x_13/2.jpeg" width="270" height="480">
