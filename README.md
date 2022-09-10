@@ -2,8 +2,9 @@
 - [Advanced Edition](https://play.google.com/store/apps/details?id=com.github.superadb)
 - [Basics Edition](https://play.google.com/store/apps/details?id=com.github.standardadb)
 
-## Tutorials(updating)
+## Tutorials and FAQ(updating)
 #### [How to open and connect adb](./md/tutorials.md)
+#### [FAQ](./md/tutorials.md)
 
 ## Shell features:
 1. Support Android 4.X-Android 13
