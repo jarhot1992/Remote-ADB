@@ -1,6 +1,5 @@
-## Download url
+## Download
 - [Advanced Edition](https://play.google.com/store/apps/details?id=com.github.superadb)
-- [Basics Edition](https://play.google.com/store/apps/details?id=com.github.standardadb)
 
 ## Tutorials and FAQ(updating)
 #### [How to open and connect adb](./md/tutorials.md)
