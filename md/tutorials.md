@@ -35,3 +35,28 @@
    2. Disable pairing mode.
    3. Default IP 127.0.0.1 and default port 5555 is local mode.
       - <img src="./../image/connectADB4x_13/1.jpeg" width="270" height="300">
+
+3. ##### *lib/arm/libfs.so inaccessible or not found.
+   - Solution 1:Click reset the app.
+   - Solution 2:Reinstall the app.
+
+4. ##### error: device unauthorized.This adb server\'s $ADB_VENDOR_KEYS is not set
+   - Solution 1:Click restart app.
+   - Solution 2:
+   ```
+    $ adb kill-server
+    $ adb start-server
+      * daemon not running; starting now at tcp:5037
+      * daemon started successfully
+   ```
+
+5. ##### error: more than one device/emulator
+   Input \"adb devices\".Use \"adb -s IP:PORT\" select a specific device.
+   ```
+   $ adb devices
+     List of devices attached
+     192.168.3.100:5556      device
+     192.168.3.101:5555      device
+   $ adb -s 192.168.3.101:5555 shell
+     console:/ $
+   ```
