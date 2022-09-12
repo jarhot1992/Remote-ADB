@@ -1,5 +1,5 @@
 ##### How to open mobile ADB
-Different models of phones may be slightly different!
+Different models of TV may be slightly different!
 1. Open system setting app
 2. Click 'Device Preferences'
    - <img src="./../image/openTVAdb/1.png" width="640" height="360">
