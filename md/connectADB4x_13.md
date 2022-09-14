@@ -1,6 +1,6 @@
 ##### How to connect adb(Android 4.x ~ Android 13)
 
-1. [open mobile adb](./md/openMobileADB.md) or [open TV adb](./md/../openTVADB.md)
+1. [open mobile adb](./md/../openMobileADB4x_13.md) or [open TV adb](./md/../openTVADB.md)
 2. 1. Connect the USB cable.
    2. Open your PC shell or powershell and input
     ```
