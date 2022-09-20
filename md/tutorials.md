@@ -39,3 +39,5 @@
    $ adb -s 192.168.3.101:5555 shell
      console:/ $
    ```
+5. ##### sh:<stdin>[] ** inaccessible or not found
+   - Please confirm that the command you entered is correct.
