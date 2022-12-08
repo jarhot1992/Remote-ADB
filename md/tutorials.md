@@ -41,3 +41,5 @@
    ```
 5. ##### sh:<stdin>[] ** inaccessible or not found
    - Please confirm that the command you entered is correct.
+   
+6. ##### Google Intel Chromebooks are not supported.  Intel x86(x64) chip is not supported(Only support arm chip).  Please use Google official adb for intel x86(x64).
