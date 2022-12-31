@@ -21,18 +21,19 @@ Different models of phones may be slightly different!
 7. Click 'OK'
    - <img src="./../image/openMobileAdb/08.png" width="270" height="480">
 
-8. Connect the USB cable.
-9. Click 'Allow'
+8. Allow ADB debugging in charge only mode (Optional)
+9. Connect the USB cable.
+10. Click 'Allow'
    - <img src="./../image/openMobileAdb/09.png" width="270" height="480">
 
-10. Click 'Notifications'.
-11. Click 'Charging this device via USB'.
+11. Click 'Notifications'.
+12. Click 'Charging this device via USB'.
     - <img src="./../image/openMobileAdb/10.png" width="270" height="480">
 
-12. Click 'File transfer/Android Auto'
+13. Click 'File transfer/Android Auto'
     - <img src="./../image/openMobileAdb/11.png" width="270" height="480">
     
-13. Open your PC shell or powershell and input 
+14. Open your PC shell or powershell and input 
     ```
     $ adb devices
     List of devices attached
