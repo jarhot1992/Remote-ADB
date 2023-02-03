@@ -9,17 +9,23 @@
 
 
 #### FAQ
-1. ##### How to use the app locally?
+1. ##### Failed: Unable to start pairing client.
+   1. 🥝 Check your pair port. [Pair and connect adb (Android 11 ~ Android 13)](./connectADB11_13.md)
+   2. If it still doesn't work, you can try to switch the 64-bit library in the settings.
+   3. If it still doesn't work, you can try to switch the connection mode. [👍Connect adb (Android 4.x ~ Android 13)](./connectADB4x_13.md)
+
+
+3. ##### How to use the app locally?
    1. Open and connect adb.[How to open and connect adb](./md/tutorials.md)
    2. Disable pairing mode.
    3. Default IP 127.0.0.1 and default port 5555 is local mode.
       - <img src="./../image/connectADB4x_13/1.jpeg" width="270" height="300">
 
-2. ##### *lib/arm/libfs.so inaccessible or not found.
+3. ##### *lib/arm/libfs.so inaccessible or not found.
    - Solution 1:Click reset the app.
    - Solution 2:Reinstall the app.
 
-3. ##### error: device unauthorized.This adb server\'s $ADB_VENDOR_KEYS is not set
+4. ##### error: device unauthorized.This adb server\'s $ADB_VENDOR_KEYS is not set
    - Solution 1:Click restart app.
    - Solution 2:
    ```
@@ -29,7 +35,7 @@
       * daemon started successfully
    ```
 
-4. ##### error: more than one device/emulator
+5. ##### error: more than one device/emulator
    Input \"adb devices\".Use \"adb -s IP:PORT\" select a specific device.
    ```
    $ adb devices
@@ -39,7 +45,7 @@
    $ adb -s 192.168.3.101:5555 shell
      console:/ $
    ```
-5. ##### sh:<stdin>[] ** inaccessible or not found
+6. ##### sh:<stdin>[] ** inaccessible or not found
    - Please confirm that the command you entered is correct.
    
-6. ##### Google Intel Chromebooks are not supported.  Intel x86(x64) chip is not supported(Only support arm chip).  Please use Google official adb for intel x86(x64).
+7. ##### Google Intel Chromebooks are not supported.  Intel x86(x64) chip is not supported(Only support arm chip).  Please use Google official adb for intel x86(x64).
