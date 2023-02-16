@@ -18,7 +18,7 @@
 2. ##### Failed: Unable to start pairing client.
    1. 🥝 Check your pair port. [Pair and connect adb (Android 11 ~ Android 13)](./connectADB11_13.md)
    2. If it still doesn't work, you can try to switch the 64-bit library in the settings.
-   3. If it still doesn't work, you can try to switch the connection mode. [👍Connect adb (Android 4.x ~ Android 13)](./connectADB4x_13.md)
+   3. If it still doesn't work, you can try to switch to another connection mode. [👍Connect adb (Android 4.x ~ Android 13)](./connectADB4x_13.md)
 
 
 3. ##### How to use the app locally?
