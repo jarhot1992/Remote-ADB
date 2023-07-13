@@ -15,6 +15,7 @@
 5. [error: device unauthorized.This adb server\'s $ADB_VENDOR_KEYS is not set](#error-device-unauthorizedthis-adb-servers-adb_vendor_keys-is-not-set)
 6. [error: more than one device/emulator](#error-more-than-one-deviceemulator)
 7. [sh:<stdin> ** inaccessible or not found](#sh--inaccessible-or-not-found)
+8. [I don't have a PC, how can I use this application locally?](#i-dont-have-a-pc-how-can-i-use-this-application-locally)
 
 ### FAQ list
 1. #### 32 or 64 bit libraries?
@@ -61,3 +62,15 @@
    ```
 7. #### sh:<stdin>[] ** inaccessible or not found
    - Please confirm that the command you entered is correct.
+
+8. #### I don't have a PC, how can I use this application locally?
+   1. Refer to [Pair and connect adb (Android 11 ~ Android 13)](./connectADB11_13.md)
+   2. Then open the network port(Must be connected state)
+      ```
+      $ adb devices
+        List of devices attached
+        192.168.3.100:5556      device
+      $ adb tcpip 5555
+      ```
+   3. Refer to [How to use this app locally?](#how-to-use-this-app-locally)
+   

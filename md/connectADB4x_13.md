@@ -1,4 +1,6 @@
-##### How to connect adb(Android 4.x ~ Android 13)
+### How to connect adb(Android 4.x ~ Android 13)
+##### 1. Different models of phones may be slightly different!
+##### 2. This tutorial requires a PC
 
 1. [open mobile adb](./md/../openMobileADB4x_13.md) or [open TV adb](./md/../openTVADB.md)
 2. 1. Connect the USB cable.
