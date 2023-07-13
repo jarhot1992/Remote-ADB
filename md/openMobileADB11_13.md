@@ -1,6 +1,6 @@
 ### How to open mobile ADB
-##### 1. Different models of phones may be slightly different!
-##### 2. This tutorial generally requires two Android phones
+#### 1. Different models of phones may be slightly different!
+#### 2. This tutorial generally requires two Android phones
 1. Open system setting app
 2. Click 'About phone'
    - <img src="./../image/openMobileAdb/01.png" width="270" height="480">

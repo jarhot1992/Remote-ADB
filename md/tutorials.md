@@ -16,6 +16,7 @@
 6. [error: more than one device/emulator](#error-more-than-one-deviceemulator)
 7. [sh:<stdin> ** inaccessible or not found](#sh--inaccessible-or-not-found)
 8. [I don't have a PC, how can I use this application locally?](#i-dont-have-a-pc-how-can-i-use-this-application-locally)
+9. [Is this app malware?](#is-this-app-malware)
 
 ### FAQ list
 1. #### 32 or 64 bit libraries?
@@ -73,4 +74,6 @@
       $ adb tcpip 5555
       ```
    3. Refer to [How to use this app locally?](#how-to-use-this-app-locally)
-   
+
+9. #### Is this app malware?
+    This application is an ADB development tool, not a malicious software. If your phone has been compromised, please check if there are any other malicious software on your device.

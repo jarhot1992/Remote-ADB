@@ -1,6 +1,6 @@
 ### How to open mobile ADB
-##### 1. Different models of phones may be slightly different!
-##### 2. This tutorial requires a PC
+#### 1. Different models of phones may be slightly different!
+#### 2. This tutorial requires a PC
 
 
 1. Open system setting app
