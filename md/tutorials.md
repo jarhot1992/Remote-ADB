@@ -5,7 +5,7 @@
 - [Pair and connect adb (Android 11 ~ Android 13)](./connectADB11_13.md)
 - [👍Open mobile adb(Android 4.x ~ Android 13)](./openMobileADB4x_13.md)
 - [Open mobile adb(Android 11 ~ Android 13)](./openMobileADB11_13.md)
-- [Open TV adb](./openTVADB.md)
+- [Open TV/TV Box adb](./openTVADB.md)
 
 ### FAQ directory
 1. [32 or 64 bit libraries?](#32-or-64-bit-libraries)
