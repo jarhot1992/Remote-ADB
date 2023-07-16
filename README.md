@@ -1,7 +1,7 @@
 ## Download
 - [Advanced Edition](https://play.google.com/store/apps/details?id=com.github.superadb)
 
-## Tutorials and FAQ(updating)
+## ❤️Tutorials and FAQ(updating)↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 #### [How to open and connect adb](./md/tutorials.md)
 #### [FAQ](./md/tutorials.md)
 
