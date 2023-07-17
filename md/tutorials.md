@@ -9,7 +9,7 @@
 
 ### FAQ directory
 1. [32 or 64 bit libraries?](#32-or-64-bit-libraries)
-2. [Because my phone is (Android 5/6/7/8/9/10/11/12/13/14), can you provide me with a tutorial?](#because-my-phone-is-android-567891011121314-can-you-provide-me-with-a-tutorial)
+2. [Ｍy phone is (Android 5/6/7/8/9/10/11/12/13/14), can you provide me with a tutorial?](#my-phone-is-android-567891011121314-can-you-provide-me-with-a-tutorial)
 3. [Failed: Unable to start pairing client](#failed-unable-to-start-pairing-client)
 4. [How to use this app locally?](#how-to-use-this-app-locally)
 5. [*lib/arm/libfs.so inaccessible or not found.](#libarmlibfsso-inaccessible-or-not-found)
@@ -47,7 +47,7 @@
    - 64-bit libraries are faster.If it takes too long to connect the device, you can try to switch the 64-bit library.
    - 64-bit libraries are recommended for Android 11 and above.
 
-2. #### Because my phone is (Android 5/6/7/8/9/10/11/12/13/14), can you provide me with a tutorial?
+2. #### My phone is (Android 5/6/7/8/9/10/11/12/13/14), can you provide me with a tutorial?
    If your browser is working properly, you should be able to see our tutorial on this page. The tutorial is located at the top.
    
 4. #### Failed: Unable to start pairing client.
