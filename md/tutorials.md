@@ -91,15 +91,15 @@
    - Please confirm that the command you entered is correct.
 
 10. #### I don't have a PC, how can I use this application locally?
-   1. Refer to [Pair and connect adb (Android 11 ~ Android 13)](./connectADB11_13.md)
-   2. Then open the network port(Must be connected state)
+    1. Refer to [Pair and connect adb (Android 11 ~ Android 13)](./connectADB11_13.md)
+    2. Then open the network port(Must be connected state)
       ```
       $ adb devices
         List of devices attached
         192.168.3.100:5556      device
       $ adb tcpip 5555
       ```
-   3. Refer to [How to use this app locally?](#how-to-use-this-app-locally)
+    3. Refer to [How to use this app locally?](#how-to-use-this-app-locally)
 
 11. #### Is this app malware?
     This application is an ADB development tool, not a malicious software. If your phone has been compromised, please check if there are any other malicious software on your device.
