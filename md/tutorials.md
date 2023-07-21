@@ -145,7 +145,7 @@
     For security reasons, the Android operating system does not allow granting executable permissions to files in the /sdcard (or external storage) by default. This is done to prevent potential security risks and to protect user devices from malicious software or apps abusing permissions. 
     ##### Solution:You can copy the file to the /data/local/tmp/ directory, which allows granting executable permissions.
     ```
-    cp YOUR_FILE /data/local/temp/
+    cp YOUR_FILE /data/local/tmp/
     ```
 
 22. #### I hope to use this application to monitor someone else's phone and invade their privacy.
