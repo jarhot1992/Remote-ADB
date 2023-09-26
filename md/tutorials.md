@@ -1,10 +1,10 @@
 ## Tutorials
-### 💎💎💎💎💎💎 If the application is not working, please make sure to refer to the following tutorial. If you are a beginner or using this application for the first time, please make sure to refer to the following tutorial. If you have any questions, please refer to the following FAQ or contact us via email (colorboxguestservice@gmail.com).🍏🍎🍐🍊🍋🍌🍉🍇🍓🍈🍒🍑🥭🍍🥥🥝🍅
-### ❤️How to open and connect adb ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-- [⚡Open and connect adb(From google)](https://developer.android.com/studio/command-line/adb)
-- [👍Connect adb (Android 4.x ~ Android 14)](./connectADB4x_13.md)
+### If the application is not working, please make sure to refer to the following tutorial. If you are a beginner or using this application for the first time, please make sure to refer to the following tutorial. If you have any questions, please refer to the following FAQ or contact us via email (colorboxguestservice@gmail.com).
+### How to open and connect adb ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+- [Open and connect adb(From Google)](https://developer.android.com/studio/command-line/adb)
+- [Connect adb (Android 4.x ~ Android 14)](./connectADB4x_13.md)
 - [Pair and connect adb (Android 11 ~ Android 14)](./connectADB11_13.md)
-- [👍Open mobile adb(Android 4.x ~ Android 14)](./openMobileADB4x_13.md)
+- [Open mobile adb(Android 4.x ~ Android 14)](./openMobileADB4x_13.md)
 - [Open mobile adb(Android 11 ~ Android 14)](./openMobileADB11_13.md)
 - [Open TV/TV Box adb](./openTVADB.md)
 
@@ -52,9 +52,9 @@
    If your browser is working properly, you should be able to see our tutorial on this page. The tutorial is located at the top.
    
 4. #### Failed: Unable to start pairing client.
-   1. 🥝 It is usually due to incorrect pairing of ports or IP addresses. Please check the paired IP and port! Refer to [Pair and connect adb (Android 11 ~ Android 13)](./connectADB11_13.md)
+   1. It is usually due to incorrect pairing of ports or IP addresses. Please check the paired IP and port! Refer to [Pair and connect adb (Android 11 ~ Android 13)](./connectADB11_13.md)
    2. If it still doesn't work, you can try to switch the 64-bit library in the settings.
-   3. If it still doesn't work, you can try to switch to another connection mode. [👍Connect adb (Android 4.x ~ Android 13)](./connectADB4x_13.md)
+   3. If it still doesn't work, you can try to switch to another connection mode. [Connect adb (Android 4.x ~ Android 13)](./connectADB4x_13.md)
 
 
 5. #### How to use this app locally?
