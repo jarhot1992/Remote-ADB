@@ -6,7 +6,7 @@
         balanceManager.initializeAccount("ewallet", 5000);
         balanceManager.initializeAccount("bank", 2000);
 
-        // Create a transfer for user samuelmedina79
+        // Create a transfer for user $samuelmedina79
         Transfer transfer = new Transfer("ewallet", "bank", 1000, "samuelmedina79");
 
         // Perform the transfer
