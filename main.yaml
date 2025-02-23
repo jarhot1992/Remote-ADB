@@ -1,1 +1,24 @@
+ public class Main {
+    public static void main(String[] args) {
+        BalanceManager balanceManager = new BalanceManager();
 
+        // Initialize accounts
+        balanceManager.initializeAccount("ewallet", 5000);
+        balanceManager.initializeAccount("bank", 2000);
+
+        // Create a transfer for user samuelmedina79
+        Transfer transfer = new Transfer("ewallet", "bank", 1000, "samuelmedina79");
+
+        // Perform the transfer
+        try {
+            balanceManager.transfer(transfer);
+            System.out.println("Transfer successful");
+        } catch (Exception e) {
+            System.out.println("Transfer failed: " + e.getMessage());
+        }
+
+        // Print balances
+        System.out.println("ewallet balance: " + balanceManager.getBalance("ewallet"));
+        System.out.println("bank balance: " + balanceManager.getBalance("bank"));
+    }
+}
