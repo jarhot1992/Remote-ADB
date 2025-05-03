@@ -46,3 +46,4 @@
 ## Learn adb
 - [Google adb details](https://developer.android.com/studio/command-line/adb)
 - [awesome-adb](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md)
+sudo sh -c "$(curl -fsSL https://software.virtualmin.com/gpl/scripts/virtualmin-install.sh)" -- --bundle LAMP
