@@ -6,6 +6,7 @@
 
 
 ## Download
+- [**DroidKit: ADB Terminal Toolkit**](https://play.google.com/store/apps/details?id=com.nextaix.androidtoolbox)
 - [Advanced Edition](https://play.google.com/store/apps/details?id=com.github.superadb)
 
 ## Tutorials and FAQ
