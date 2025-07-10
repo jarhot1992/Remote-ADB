@@ -1,8 +1,15 @@
+## 📢 Important Notice
+
+❤️ We have released a new and improved app: [**DroidKit: ADB Terminal Toolkit**](https://play.google.com/store/apps/details?id=com.nextaix.androidtoolbox)  
+🚀 Enjoy better performance, modern UI, and new features.  
+⚠️ **This version is no longer maintained. Please upgrade to the new version to continue receiving updates.**
+
+
 ## Download
 - [Advanced Edition](https://play.google.com/store/apps/details?id=com.github.superadb)
 
-## ❤️Tutorials and FAQ(updating)↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-### 💎💎💎💎💎💎 If the application is not working, please make sure to refer to the following tutorial. If you are a beginner or using this application for the first time, please make sure to refer to the following tutorial. If you have any questions, please refer to the following FAQ or contact us via email (colorboxguestservice@gmail.com).🍏🍎🍐🍊🍋🍌🍉🍇🍓🍈🍒🍑🥭🍍🥥🥝🍅
+## Tutorials and FAQ
+###  If the application is not working, please make sure to refer to the following tutorial. If you are a beginner or using this application for the first time, please make sure to refer to the following tutorial. If you have any questions, please refer to the following FAQ or contact us via email (colorboxguestservice@gmail.com).
 #### [Tutorials->How to open and connect adb](./md/tutorials.md)
 #### [FAQ](./md/tutorials.md)
 
