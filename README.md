@@ -10,8 +10,6 @@ After a full year of hard work and refinement, we’re excited to introduce a co
 The original version was built with older native code, which limited our ability to develop new features efficiently. The new version uses a more modern, cross-platform technology stack, making it possible to support Windows, macOS, and Linux in the future.
 #### Due to restrictions imposed by Google Play policies, some features cannot be released on the current platform. To overcome these limitations, we plan to expand the app to other platforms and introduce many innovative and advanced features in the future, offering a richer user experience.
 
-)
-
 ### 2. 🔓Free Access to All Features
 We believe great tools should be accessible to more people. That’s why all features in the new version can be unlocked and enjoyed without any payment.
 
