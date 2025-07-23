@@ -1,4 +1,5 @@
 ## 📢 Important Notice
+📢📢📢📢📢 The old version will be directly replaced by the new one, and all existing user benefits will be fully retaine.
 
 ❤️ We have released a new and improved app: [**DroidKit: ADB Terminal Toolkit**](https://play.google.com/store/apps/details?id=com.nextaix.androidtoolbox)  
 🚀 Enjoy better performance, modern UI, and new features.  
@@ -19,8 +20,6 @@ We believe great tools should be accessible to more people. That’s why all fea
 We’ve redesigned the user interface to be more modern, intuitive, and visually appealing—now with full dark-mode support for a more comfortable experience in low-light environments.
 
 This new version is just the beginning — more powerful features are on the way. Thank you for your support, and we hope you enjoy the improved experience!
-
-
 
 
 ## Download
