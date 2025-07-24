@@ -1,5 +1,4 @@
 ## 📢 Important Notice
-📢📢📢📢📢 The old version will be directly replaced by the new one, and all existing user benefits will be fully retaine.
 
 ❤️ We have released a new and improved app: [**DroidKit: ADB Terminal Toolkit**](https://play.google.com/store/apps/details?id=com.nextaix.androidtoolbox)  
 🚀 Enjoy better performance, modern UI, and new features.  
