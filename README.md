@@ -12,12 +12,7 @@ After a full year of hard work and refinement, we’re excited to introduce a co
 The original version was built with older native code, which limited our ability to develop new features efficiently. The new version uses a more modern, cross-platform technology stack, making it possible to support Windows, macOS, and Linux in the future.
 #### Due to restrictions imposed by Google Play policies, some features cannot be released on the current platform. To overcome these limitations, we plan to expand the app to other platforms and introduce many innovative and advanced features in the future, offering a richer user experience.
 
-### 2. 🔓Free Access to All Features
-We believe great tools should be accessible to more people. That’s why all features in the new version can be unlocked and enjoyed without any payment.
-
-### 3.🧨No need to look for cracked versions or unofficial workarounds — all features are available right here, securely and hassle-free.
-
-### 4. 🎨 A Fresh, Modern UI with Dark Mode Support
+### 2. 🎨 A Fresh, Modern UI with Dark Mode Support
 We’ve redesigned the user interface to be more modern, intuitive, and visually appealing—now with full dark-mode support for a more comfortable experience in low-light environments.
 
 This new version is just the beginning — more powerful features are on the way. Thank you for your support, and we hope you enjoy the improved experience!
