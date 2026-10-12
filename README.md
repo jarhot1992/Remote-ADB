@@ -10,8 +10,6 @@ The old version will be directly replaced by the new one, and **all existing use
 
 Legacy tutorials and FAQ remain available here to support existing users. See [Tutorials and FAQ](#tutorials-and-faq) for connection guides and troubleshooting.
 
-The original download list also used the name [Advanced Edition](https://play.google.com/store/apps/details?id=com.github.superadb) for the same store address listed in the Download section below.
-
 <a id="why-we-created-a-brand-new-version-of-this-app"></a>
 
 ## ✨ Why We Created a Brand-New Version of This App
