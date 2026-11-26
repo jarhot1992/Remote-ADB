@@ -1,40 +1,12 @@
 # Remote ADB & ADB Shell
 
-## 📢 Important Notice
+<a id="your-android-toolbox"></a>
 
-The old version will be directly replaced by the new one, and **all existing user benefits will be fully retained**.
-
-🚀 Enjoy better performance, a modern UI, and new features.
-
-⚠️ **Please update the app you already use to the latest version to enjoy these improvements.**
-
-Legacy tutorials and FAQ remain available here to support existing users. See [Tutorials and FAQ](#tutorials-and-faq) for connection guides and troubleshooting.
-
-<a id="why-we-created-a-brand-new-version-of-this-app"></a>
-
-## ✨ Why We Created a Brand-New Version of This App
-
-After a full year of hard work and refinement, we're excited to introduce a completely new version of this app. Here's why we chose to rebuild it from the ground up:
-
-<a id="2--a-fresh-modern-ui-with-dark-mode-support"></a>
-
-### 🎨 A Fresh, Modern UI with Dark Mode Support
-
-We've redesigned the user interface to be more modern, intuitive, and visually appealing—now with full dark-mode support for a more comfortable experience in low-light environments.
-
-This new version is just the beginning—more powerful features are on the way. Thank you for your support, and we hope you enjoy the improved experience!
-
-## Your Android Toolbox
-
-**Powerful commands. Practical tools. More control over Android.**
-
-Run shell commands, manage apps, transfer files, capture screenshots, and control Android TV—from one Android toolbox.
-
-Already using the legacy app? Find the connection guides and troubleshooting answers you need here. Explore [DroidKit](https://github.com/jarhot1992/DroidKit-ADB-Terminal-Toolkit) for the latest interface, features, and updates.
+Run ADB commands, manage apps, transfer files, take screenshots, and control Android TV from your phone.
 
 ## Download
 
-- [Pro Edition](https://play.google.com/store/apps/details?id=com.github.superadb)
+- [ADB Shell - Debug Toolbox Pro](https://play.google.com/store/apps/details?id=com.github.superadb)
 - [DroidKit: ADB Terminal Toolkit](https://play.google.com/store/apps/details?id=com.nextaix.androidtoolbox)
 - [ADB Shell - Debug Toolbox](https://play.google.com/store/apps/details?id=com.github.standardadb)
 
@@ -50,24 +22,37 @@ Optimize your settings and track your gaming performance with a game booster & F
 
 [**Get Mr. Zero on Google Play →**](https://play.google.com/store/apps/details?id=com.nextaix.game_booster)
 
-## Why Keep This Toolbox at Hand?
+## 📢 Important Notice
 
-- **Turn commands into a repeatable workflow.** Reuse history, suggestions, and predefined commands instead of starting from scratch.
-- **Manage more from your phone.** Work with apps, files, screenshots, and connected devices in the same toolbox.
-- **Make TV control more convenient.** Navigate with a remote controller and send text without selecting every character on a TV keyboard.
-- **Keep useful evidence.** Save terminal output, share results, inspect system information, and read logcat while troubleshooting.
+The app has been rebuilt. Update the app you already use to get the latest version, with better performance, a redesigned interface, and new features. **All existing user benefits will be fully retained.**
+
+See [Tutorials and FAQ](#tutorials-and-faq) for connection guides and troubleshooting.
+
+<a id="why-we-created-a-brand-new-version-of-this-app"></a>
+
+## ✨ Why We Created a Brand-New Version of This App
+
+We spent a year rebuilding the app.
+
+<a id="2--a-fresh-modern-ui-with-dark-mode-support"></a>
+
+### 🎨 A Fresh, Modern UI with Dark Mode Support
+
+We redesigned the interface to make it easier to use. The app now supports dark mode throughout, so it's more comfortable to use in low light.
+
+We're working on more features. Thanks for using the app and supporting its development.
 
 ## Complete Legacy Feature Set
 
-The following capabilities document the legacy app. Availability depends on the installed edition, release, Android version, and device permissions. The original Shell compatibility range was **Android 4.x–Android 13**; the tutorial index also includes Android 14 guidance. This does not establish support for every newer release.
+This list covers the legacy app. Features vary by app edition, release, Android version, and device permissions. The original Shell's documented range was **Android 4.x–Android 13**. The tutorial index also includes setup guidance for Android 14.
 
 ### Shell Features
 
-1. **Android 4.x–Android 13 support:** use the legacy Shell workflow across the originally documented Android versions.
-2. **Pairing mode:** pair with supported devices through wireless debugging.
-3. **Wireless ADB over Wi-Fi:** connect to a device without keeping a USB cable attached after setup.
-4. **Local ADB shell:** run commands on the phone hosting the app after enabling its ADB connection.
-5. **Associative input:** use input suggestions to reduce repeated typing.
+1. **Android 4.x–Android 13 support:** this was the documented range for the original Shell.
+2. **Pair Mode:** pair with supported devices through wireless debugging.
+3. **Wireless ADB over Wi-Fi:** Connect without a USB cable after setup.
+4. **Local Shell:** enable ADB on the phone running the app, then run commands on that same phone.
+5. **Input suggestions:** get suggestions as you type.
 6. **Automatic output saving:** keep command results for later review.
 7. **Output sharing:** share terminal output with friends or someone helping you troubleshoot.
 8. **Command history:** return to commands you have already used.
@@ -83,40 +68,44 @@ The following capabilities document the legacy app. Availability depends on the 
 ### Toolbox Features
 
 1. **Application management:** launch, uninstall, download applications, force-stop them, clear their data, and disable or enable them.
-2. **Device management:** manage the devices connected to your ADB workflow.
-3. **Running applications:** inspect which apps are running while investigating device activity.
+2. **Device management:** manage devices connected through ADB.
+3. **Running applications:** see which apps are running on the connected device.
 4. **Screenshots:** capture the connected device's screen.
 5. **Push files:** send files to a connected device.
 6. **APK installation:** install application packages in legacy releases that include this function.
 7. **Pull files:** retrieve files from a connected device.
 8. **Remote media access:** open remote images, audio, and video files directly.
-9. **Remote controller:** control a connected device, including Android TV workflows.
+9. **Remote controller:** use your phone to control a connected device, such as an Android TV.
 10. **Text input:** send text to the connected device.
 11. **System monitor:** inspect system activity from the toolbox.
 12. **System information:** view device and system details.
 13. **Property information:** inspect Android system properties.
 
-**APK availability:** The original feature list includes application download/backup and APK installation. Later legacy releases restricted these functions; see [the original APK FAQ](md/tutorials.md#why-is-backing-up-apk-and-installing-apk-not-supported-now). The list preserves the historical capabilities and does not promise that every installed legacy release contains them. For current capabilities, see [DroidKit's complete feature set](https://github.com/jarhot1992/DroidKit-ADB-Terminal-Toolkit#complete-feature-set).
+The original feature list includes application downloads and APK installation. Availability varies by release. See [the original APK FAQ](md/tutorials.md#why-is-backing-up-apk-and-installing-apk-not-supported-now) for backup and installation restrictions in later legacy releases. For the current DroidKit app, see [DroidKit's complete feature set](https://github.com/jarhot1992/DroidKit-ADB-Terminal-Toolkit#complete-feature-set).
 
-## Built for Your Workflow
+<a id="why-keep-this-toolbox-at-hand"></a>
 
-- **Develop and debug:** run ADB or Shell commands, inspect logcat, and save output to revisit a problem.
-- **Manage applications:** inspect running apps and use the app actions available in your release.
-- **Move files and capture results:** push or pull files, open remote media, and take screenshots.
-- **Control Android TV:** use the remote controller and text input for everyday navigation.
-- **Investigate device behavior:** combine system monitoring, system information, and property inspection.
+<a id="built-for-your-workflow"></a>
+
+## Common Tasks
+
+- Rerun commands from your history. Use suggestions or predefined commands to save typing.
+- Check which apps are running and use the app controls available in your release.
+- Push files to a connected device, pull files to your phone, or open media stored on the connected device. Take a screenshot of the connected device.
+- Use your phone as an Android TV remote. Type with your phone's keyboard instead of selecting characters one by one on the TV.
+- When troubleshooting, check Logcat, system activity, device details, and system properties. Save or share the command output so you can refer to it later.
 
 ## Tutorials and FAQ
 
 <a id="if-the-application-is-not-working-please-make-sure-to-refer-to-the-following-tutorial-if-you-are-a-beginner-or-using-this-application-for-the-first-time-please-make-sure-to-refer-to-the-following-tutorial-if-you-have-any-questions-please-refer-to-the-following-faq-or-contact-us-via-email-colorboxguestservicegmailcom"></a>
 
-Start with a connection guide if this is your first time using the app. If a feature is not working, check the setup steps and FAQ before trying again. Questions are welcome through the [feedback contacts](#feedback).
+Setting up ADB for the first time? Pick the guide that matches your device and connection method. If you're stuck, check the FAQ below or [get in touch](#feedback).
 
 <a id="tutorials-how-to-open-and-connect-adb"></a>
 
 ### Illustrated Connection Guides
 
-These guides retain the legacy app's screens and complete setup steps.
+These guides show each step with screenshots from the legacy app.
 
 - [All connection tutorials](md/tutorials.md#how-to-open-and-connect-adb)
 - [Connect over traditional ADB TCP/IP](md/connectADB4x_13.md)
@@ -127,22 +116,23 @@ These guides retain the legacy app's screens and complete setup steps.
 
 ### Connection Videos
 
-Watch the [complete video tutorial table](md/tutorials.md#connection-videos) for local and remote Terminal, Universal, and Shizuku connections, plus the [general connection video](https://www.youtube.com/watch?v=_JjpbufTMew).
+Start with the [general connection video](https://www.youtube.com/watch?v=_JjpbufTMew) or pick a [video for your connection method](md/tutorials.md#connection-videos).
 
-The five method-specific videos are synchronized with DroidKit's current documentation and demonstrate its interface. They supplement the legacy guides; method names and screens can differ, and they do not establish Shizuku or Universal support in the legacy app.
+The five videos from the DroidKit docs show local Shizuku and both local and remote setups with Terminal and Universal. For the legacy app, follow the illustrated guides above. Screens and option names may differ.
 
 <a id="faq"></a>
 
 ### FAQ and Current Documentation
 
 - [All 31 legacy FAQ answers](md/tutorials.md#faq-directory), including pairing, local connections, library selection, permissions, and APK restrictions.
+- [DroidKit documentation](https://github.com/jarhot1992/DroidKit-ADB-Terminal-Toolkit)
 - [Current DroidKit FAQ](https://github.com/jarhot1992/DroidKit-ADB-Terminal-Toolkit/blob/main/md/FAQ.md)
 - [Current DroidKit text connection guide](https://github.com/jarhot1992/DroidKit-ADB-Terminal-Toolkit/blob/main/md/ConnectADBText.md)
 - [DroidKit release notes](https://github.com/jarhot1992/DroidKit-ADB-Terminal-Toolkit/blob/main/md/Changelog.md)
 
 ## Feedback
 
-- [Remote-ADB GitHub issues](https://github.com/jarhot1992/Remote-ADB/issues): report legacy documentation or app issues.
+- Report a problem with the legacy app or its docs through [Remote-ADB GitHub issues](https://github.com/jarhot1992/Remote-ADB/issues).
 - Legacy feedback email: [colorboxguestservice@gmail.com](mailto:colorboxguestservice@gmail.com)
 - Current DroidKit support: [support@nextaix.com](mailto:support@nextaix.com)
 

@@ -2,7 +2,7 @@
 
 <a id="tutorials"></a>
 
-Keep your legacy ADB workflow working: choose a setup guide, follow the illustrated steps, and use the troubleshooting answers below when something gets in the way.
+Choose an illustrated setup guide for the legacy app. If you get stuck, check the troubleshooting answers below.
 
 <a id="-if-the-application-is-not-working-please-make-sure-to-refer-to-the-following-tutorial-if-you-are-a-beginner-or-using-this-application-for-the-first-time-please-make-sure-to-refer-to-the-following-tutorial-if-you-have-any-questions-please-refer-to-the-following-faq-or-contact-us-via-email-colorboxguestservicegmailcom"></a>
 
@@ -33,7 +33,7 @@ The illustrated guides below preserve the legacy app's original setup. The origi
 
 ## Connection Videos
 
-The following five videos are synchronized with **DroidKit's current documentation** and show its connection interface. They supplement the legacy illustrated tutorials above. Screens and method names can differ; this table does not establish Universal or Shizuku support in the legacy app.
+These are the same five videos listed in **DroidKit's current documentation**. They show how to connect in DroidKit and can be used alongside the illustrated guides for the legacy app. Screens and method names can differ. The videos do not confirm support for Universal or Shizuku in the legacy app.
 
 | Device | DroidKit connection method | Video tutorial |
 | --- | --- | --- |

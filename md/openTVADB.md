@@ -2,7 +2,7 @@
 
 # How to Enable ADB on Android TV / TV Box
 
-Prepare a television or TV box for the legacy app's remote-controller, text-input, file, and diagnostic workflows.
+Set up ADB on your TV or TV box so you can use the legacy app to control it, enter text, work with files, and run diagnostics.
 
 <a id="1-different-models-of-phones-may-be-slightly-different"></a>
 <a id="2-this-tutorial-generally-requires-a-pc"></a>
