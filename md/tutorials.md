@@ -16,6 +16,14 @@ If this is your first time using the app—or it is not working—start with the
 
 ## How to Enable and Connect ADB
 
+### Enable Wireless Debugging from a Computer (Android 5.0+)
+
+[Open Wireless Debugging (ADB USB to Wi-Fi)](https://github.com/jarhot1992/adb-usb-to-wifi) turns on wireless ADB from a Windows, macOS, or Linux computer. Connect your phone over USB for setup, then use port `5555` with pairing turned off.
+
+Follow the [setup guide](https://nextaix.com/adb-help/tutorials/open-wireless-debugging), then [connect in the legacy app](connectADB4x_13.md#connect-after-using-the-desktop-tool). The connection guide explains how to allow USB debugging, which Android versions are supported, and how to connect to your own phone or another phone.
+
+### Illustrated Legacy Guides
+
 The illustrated guides below preserve the legacy app's original setup. The original index listed **Android 4.x–Android 14** for traditional connections and **Android 11–Android 14** for pairing. Individual guide titles and screenshots were documented through Android 13; device menus and compatibility can vary by firmware.
 
 | What you want to do | Legacy guide |
@@ -29,7 +37,7 @@ The illustrated guides below preserve the legacy app's original setup. The origi
 - [Official ADB setup and connection documentation](https://developer.android.com/tools/adb)
 - [Original Google setup reference](https://developer.android.com/studio/command-line/adb)
 
-**Port guide:** Traditional examples use `adb tcpip 5555` to enable the device's TCP/IP listener. Wireless debugging uses the pairing port displayed in the pairing-code dialog and the connection port displayed on the main Wireless debugging screen; do not assume either is `5555`. **Port of adb server** is a separate setting on the app side. See the [server-port FAQ](#failed-to-start-daemoncannot-connect-to-daemon-adb-rebootadb-server-didnt-ack).
+**Port guide:** The desktop tool and `adb tcpip 5555` both open port `5555` for connections without pairing. For Android 11+ wireless pairing, use the port in the pairing-code dialog to pair, then the port on the main Wireless debugging screen to connect. Neither is necessarily `5555`. The app's **Port of adb server** setting is separate. See the [server-port FAQ](#failed-to-start-daemoncannot-connect-to-daemon-adb-rebootadb-server-didnt-ack).
 
 ## Connection Videos
 
@@ -98,6 +106,8 @@ Switch libraries in the app's settings. These are the legacy app's recommendatio
 
 Yes. The [connection guides at the top of this page](#how-to-open-and-connect-adb) cover the setup paths used by the legacy app. Select USB/TCP/IP or wireless pairing according to your device and setup.
 
+With a computer, you can [turn on wireless ADB for an Android 5.0+ phone](#enable-wireless-debugging-from-a-computer-android-50) without typing commands. See the [connection guide](connectADB4x_13.md#connect-after-using-the-desktop-tool) for Android app requirements and how to connect to an Android 5 or 6 phone.
+
 The original FAQ explicitly covers Android **5/6/7/8/9/10/11/12/13/14**. Individual screenshots were documented through Android 13, so menu names can differ on newer firmware.
 
 <a id="failed-unable-to-start-pairing-client"></a>
@@ -113,6 +123,8 @@ Use the port in the pairing-code dialog when pairing, then the connection port o
 <a id="how-to-use-this-app-locally"></a>
 
 ### 4. How do I use this app locally?
+
+You can [use the desktop tool to open port `5555`](#enable-wireless-debugging-from-a-computer-android-50), then connect with the settings below. Follow the [setup guide](https://nextaix.com/adb-help/tutorials/open-wireless-debugging) to prepare your phone. For local use, install the app on the same phone. The current app requires Android 7.0 or later.
 
 1. [Enable and connect ADB](#how-to-open-and-connect-adb) first.
 2. Disable **Pairing mode** in the legacy app.

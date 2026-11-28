@@ -4,6 +4,8 @@
 
 Pair another Android phone with the legacy app through wireless debugging, then connect using the device's connection address.
 
+If you used [Open Wireless Debugging (ADB USB to Wi-Fi)](https://github.com/jarhot1992/adb-usb-to-wifi) to enable ADB over USB, [connect on port `5555` with pairing turned off](connectADB4x_13.md#connect-after-using-the-desktop-tool). You don't need to pair first. See the [setup guide](https://nextaix.com/adb-help/tutorials/open-wireless-debugging) for help with the desktop tool. For the wireless pairing steps below, use the pairing and connection ports shown on the phone.
+
 <a id="warning-if-you-use-local-adb-please-dont-use-pairing-mode-for-local-adb-please-refer-to-connect-adb-android-4x--android-13"></a>
 <a id="1-different-models-of-phones-may-be-slightly-different"></a>
 <a id="2-this-tutorial-generally-requires-two-android-phones"></a>

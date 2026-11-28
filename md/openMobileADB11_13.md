@@ -4,6 +4,8 @@
 
 Prepare the target phone for pairing with the legacy app. The original screenshots document Android 11–Android 13; the tutorial index also lists Android 14.
 
+You can also use a USB connection to set up wireless ADB with [Open Wireless Debugging (ADB USB to Wi-Fi)](https://github.com/jarhot1992/adb-usb-to-wifi). Follow the [setup guide](https://nextaix.com/adb-help/tutorials/open-wireless-debugging), then [connect on port `5555` with pairing turned off](connectADB4x_13.md#connect-after-using-the-desktop-tool). No pairing code is needed. The wireless pairing steps below use the ports shown in your phone's settings.
+
 <a id="1-different-models-of-phones-may-be-slightly-different"></a>
 <a id="2-this-tutorial-generally-requires-two-android-phones"></a>
 

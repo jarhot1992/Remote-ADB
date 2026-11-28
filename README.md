@@ -22,6 +22,20 @@ Optimize your settings and track your gaming performance with a game booster & F
 
 [**Get Mr. Zero on Google Play →**](https://play.google.com/store/apps/details?id=com.nextaix.game_booster)
 
+## Enable Wireless Debugging from a Computer (Android 5.0+)
+
+Open Wireless Debugging (ADB USB to Wi-Fi) lets you turn on wireless ADB from a Windows, macOS, or Linux computer without typing commands.
+
+1. Turn on **USB debugging** on your phone, connect it with a USB data cable, and tap **Allow** when prompted.
+2. Open the desktop tool, select your phone, and click **Enable wireless debugging**. Wait for **Wireless debugging is on**, then unplug the cable.
+3. Open the Android ADB app, turn off pairing, and connect on port `5555`. To connect to another phone, use that phone's IP address and put both phones on the same Wi-Fi network. To connect to the phone you're using, enter `127.0.0.1`.
+
+[Download on GitHub](https://github.com/jarhot1992/adb-usb-to-wifi) · [Setup guide](https://nextaix.com/adb-help/tutorials/open-wireless-debugging)
+
+The phone you connect to must run Android 5.0 or later and allow USB debugging. The current Android app requires Android 7.0 or later. To connect to an Android 5 or 6 phone, install the app on another phone running Android 7.0 or later.
+
+This tool enables ADB over TCP/IP on port `5555`. Android 11+ also offers wireless pairing in Settings, which uses the ports shown on the phone. For the older app's connection screen, follow [the traditional connection guide](md/connectADB4x_13.md).
+
 ## 📢 Important Notice
 
 The app has been rebuilt. Update the app you already use to get the latest version, with better performance, a redesigned interface, and new features. **All existing user benefits will be fully retained.**

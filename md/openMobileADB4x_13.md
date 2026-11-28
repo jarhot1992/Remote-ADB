@@ -4,6 +4,14 @@
 
 Prepare your phone for the legacy app's traditional ADB connection, using a PC to enable the TCP/IP listener.
 
+## Easier Setup with the Desktop Tool (Android 5.0+)
+
+[Open Wireless Debugging (ADB USB to Wi-Fi)](https://github.com/jarhot1992/adb-usb-to-wifi) lets you turn on wireless ADB from Windows, macOS, or Linux without typing commands. You'll need a USB data cable and a phone with USB debugging turned on.
+
+Follow the [setup guide](https://nextaix.com/adb-help/tutorials/open-wireless-debugging), then [connect in the app](connectADB4x_13.md#connect-after-using-the-desktop-tool) on port `5555` with pairing turned off. The connection guide also explains which Android versions you can use. Android 11+ wireless pairing uses separate ports shown in Settings.
+
+To set up ADB manually, follow the steps below.
+
 <a id="1-different-models-of-phones-may-be-slightly-different"></a>
 <a id="2-this-tutorial-requires-a-pc"></a>
 
